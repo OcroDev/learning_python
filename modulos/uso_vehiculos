@@ -1,0 +1,5 @@
+from modulo_vehiculos import *
+
+coche = Vehiculos("Mazda", "Rx6")
+
+coche.estado()
